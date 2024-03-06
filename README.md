@@ -1,1 +1,1 @@
-# Star-Rating
+# Star Rating
